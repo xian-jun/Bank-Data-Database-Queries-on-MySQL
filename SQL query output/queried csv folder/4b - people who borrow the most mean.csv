@@ -1,0 +1,4 @@
+age_range,gender,total_loan_amount,mean_loan_amount,number_of_loans
+"age <=20",M,6126528,185652.3636,33
+"age > 60",F,2325828,178909.8462,13
+"age <=20",F,7389192,175933.1429,42

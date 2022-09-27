@@ -1,0 +1,6 @@
+district_id,district_name,region_name,total_loan_amount,mean_loan_amount,number_of_loans
+46,Nachod,"east Bohemia",1768380,294730.0000,6
+14,"Ceske Budejovice","south Bohemia",2010924,251365.5000,8
+3,Beroun,"central Bohemia",1460796,243466.0000,6
+6,"Kutna Hora","central Bohemia",2095980,232886.6667,9
+67,Bruntal,"north Moravia",1277796,212966.0000,6

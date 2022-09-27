@@ -1,0 +1,77 @@
+district_id,district_name,region_name,number_of_accounts,accounts_percentage
+1,"Hl.m. Praha",Prague,554,12.4438
+70,Karvina,"north Moravia",152,3.4142
+74,"Ostrava - mesto","north Moravia",135,3.0323
+54,"Brno - mesto","south Moravia",128,2.8751
+64,Zlin,"south Moravia",92,2.0665
+72,Olomouc,"north Moravia",88,1.9766
+68,"Frydek - Mistek","north Moravia",83,1.8643
+5,Kolin,"central Bohemia",65,1.4600
+46,Nachod,"east Bohemia",59,1.3252
+52,"Usti nad Orlici","east Bohemia",57,1.2803
+36,Liberec,"north Bohemia",57,1.2803
+59,Kromeriz,"south Moravia",57,1.2803
+73,Opava,"north Moravia",56,1.2579
+8,"Mlada Boleslav","central Bohemia",56,1.2579
+76,Sumperk,"north Moravia",55,1.2354
+19,Prachatice,"south Bohemia",55,1.2354
+38,Louny,"north Bohemia",54,1.2129
+55,"Brno - venkov","south Moravia",53,1.1905
+47,Pardubice,"east Bohemia",53,1.1905
+48,"Rychnov nad Kneznou","east Bohemia",53,1.1905
+66,"Zdar nad Sazavou","south Moravia",53,1.1905
+16,"Jindrichuv Hradec","south Bohemia",52,1.1680
+60,Prostejov,"south Moravia",51,1.1456
+75,Prerov,"north Moravia",51,1.1456
+15,"Cesky Krumlov","south Bohemia",50,1.1231
+53,Blansko,"south Moravia",50,1.1231
+31,Tachov,"west Bohemia",50,1.1231
+44,Chrudim,"east Bohemia",50,1.1231
+3,Beroun,"central Bohemia",50,1.1231
+23,Cheb,"west Bohemia",50,1.1231
+43,"Hradec Kralove","east Bohemia",49,1.1006
+51,Trutnov,"east Bohemia",49,1.1006
+63,Vyskov,"south Moravia",49,1.1006
+33,Decin,"north Bohemia",49,1.1006
+21,Tabor,"south Bohemia",48,1.0782
+50,Svitavy,"east Bohemia",48,1.0782
+4,Kladno,"central Bohemia",48,1.0782
+11,"Praha - zapad","central Bohemia",48,1.0782
+6,"Kutna Hora","central Bohemia",48,1.0782
+10,"Praha - vychod","central Bohemia",48,1.0782
+32,"Ceska Lipa","north Bohemia",48,1.0782
+42,"Havlickuv Brod","east Bohemia",48,1.0782
+18,Pisek,"south Bohemia",46,1.0332
+9,Nymburk,"central Bohemia",46,1.0332
+26,"Plzen - mesto","west Bohemia",45,1.0108
+41,"Usti nad Labem","north Bohemia",45,1.0108
+28,"Plzen - sever","west Bohemia",45,1.0108
+61,Trebic,"south Moravia",45,1.0108
+7,Melnik,"central Bohemia",44,0.9883
+40,Teplice,"north Bohemia",44,0.9883
+56,Breclav,"south Moravia",44,0.9883
+62,"Uherske Hradiste","south Moravia",44,0.9883
+29,Rokycany,"west Bohemia",43,0.9659
+35,"Jablonec n. Nisou","north Bohemia",43,0.9659
+67,Bruntal,"north Moravia",43,0.9659
+12,Pribram,"central Bohemia",42,0.9434
+17,Pelhrimov,"south Bohemia",42,0.9434
+2,Benesov,"central Bohemia",42,0.9434
+25,Klatovy,"west Bohemia",42,0.9434
+24,"Karlovy Vary","west Bohemia",42,0.9434
+71,"Novy Jicin","north Moravia",42,0.9434
+57,Hodonin,"south Moravia",41,0.9209
+39,Most,"north Bohemia",41,0.9209
+45,Jicin,"east Bohemia",41,0.9209
+14,"Ceske Budejovice","south Bohemia",41,0.9209
+77,Vsetin,"north Moravia",40,0.8985
+65,Znojmo,"south Moravia",39,0.8760
+34,Chomutov,"north Bohemia",39,0.8760
+27,"Plzen - jih","west Bohemia",39,0.8760
+30,Sokolov,"west Bohemia",38,0.8535
+13,Rakovnik,"central Bohemia",37,0.8311
+37,Litomerice,"north Bohemia",37,0.8311
+49,Semily,"east Bohemia",37,0.8311
+22,Domazlice,"west Bohemia",36,0.8086
+20,Strakonice,"south Bohemia",36,0.8086
+58,Jihlava,"south Moravia",32,0.7188

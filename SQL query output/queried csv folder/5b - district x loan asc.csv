@@ -1,0 +1,6 @@
+district_id,district_name,region_name,total_loan_amount,mean_loan_amount,number_of_loans
+30,Sokolov,"west Bohemia",148524,74262.0000,2
+32,"Ceska Lipa","north Bohemia",462684,77114.0000,6
+77,Vsetin,"north Moravia",490980,81830.0000,6
+15,"Cesky Krumlov","south Bohemia",584328,83475.4286,7
+25,Klatovy,"west Bohemia",270876,90292.0000,3

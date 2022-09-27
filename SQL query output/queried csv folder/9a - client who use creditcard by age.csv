@@ -1,0 +1,16 @@
+age_range,card_type,transaction_amount
+"age > 60",gold,8505633
+"55 < age <= 60",classic,18375004
+"25 < age <= 30",gold,6844328
+"age > 60",classic,12446499
+"age <=20",junior,24112896
+"35 < age <= 40",classic,21384000
+"30 < age <= 35",classic,18082755
+"40 < age <= 45",classic,14778808
+"50 < age <= 55",classic,24630880
+"25 < age <= 30",classic,32302317
+"45 < age <= 50",classic,23082844
+"20 < age <= 25",classic,13212835
+"20 < age <= 25",junior,8688636
+"30 < age <= 35",gold,2354445
+"20 < age <= 25",gold,1565232

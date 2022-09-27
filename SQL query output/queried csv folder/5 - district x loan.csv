@@ -1,0 +1,6 @@
+district_id,district_name,region_name,total_loan_amount,mean_loan_amount,number_of_loans
+1,"Hl.m. Praha",Prague,12932412,153957.2857,84
+54,"Brno - mesto","south Moravia",4049400,168725.0000,24
+74,"Ostrava - mesto","north Moravia",3260220,163011.0000,20
+70,Karvina,"north Moravia",3059820,127492.5000,24
+64,Zlin,"south Moravia",3012768,177221.6471,17
