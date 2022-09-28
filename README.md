@@ -1,4 +1,4 @@
-# Bank-Data-Database-Queries-on-MySQL
+# Bank-Data-Database-Queries-on-MySQL and MongoDB
 
 Dataset used in this project is retrieved from the relational website. The dataset describes PKDD'99 
 Financial that was collected from the issuance bank. There are a total of 8 entities that consist of 
@@ -15,6 +15,9 @@ The dataset consists of part of the public facing services provided by Bank A, i
 accounts which can be used to order financial transactions, borrow loans and use credit card 
 services. An analysis is conducted to study the client profiles for Bank A for Bank A to understand 
 its clients better and make more informed decisions in business.
+<br>
+
+The analysis is conducted in both MySQL and MongoDB. 
 <br>
 <br>
 
